@@ -8,6 +8,8 @@ These customer complaints are unstructured text data; so, traditionally, compani
 
 In this case study, you will be working as an NLP engineer for a financial company that wants to automate its customer support tickets system. As a financial company, the firm has many products and services such as credit cards, banking and mortgages/loans. 
 
+# Dataset: https://drive.google.com/file/d/1M4ym7IrwL1wRpf320c_dgIs7joELr7Sq/view?usp=sharing
+
 # Business goal:
 You need to build a model that is able to classify customer complaints based on the products/services. By doing so, you can segregate these tickets into their relevant categories and, therefore, help in the quick resolution of the issue.
 
